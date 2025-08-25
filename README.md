@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 I develop contemporary, responsive, and user-centric web applications utilizing **HTML, CSS, JavaScript, React, TypeScript**.
-I possess a strong understanding of Git and Redux, and I am proficient in using **Figma** and **Vercel**.
 
 💡 I am perpetually acquiring knowledge, addressing genuine challenges in projects, and I endeavor to produce clean, comprehensible code.
 ✨ I am receptive to intriguing opportunities where I can grow and contribute to the team's success!
